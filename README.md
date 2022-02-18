@@ -1,1 +1,3 @@
-https://jolly-brown-28011c.netlify.app/
+# Parallex Scrolling 
+
+### [ Live Site ] { https://jolly-brown-28011c.netlify.app/ }
